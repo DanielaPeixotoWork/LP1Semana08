@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalKindom", "AnimalKindo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerManager1", "PlayerManager1\PlayerManager1.csproj", "{88FEB309-A6E4-4CD7-B399-DEB545764F65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerManager2", "PlayerManager2\PlayerManager2.csproj", "{ACCA0AF9-D42C-4A21-9A47-31F3805D6751}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{88FEB309-A6E4-4CD7-B399-DEB545764F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88FEB309-A6E4-4CD7-B399-DEB545764F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88FEB309-A6E4-4CD7-B399-DEB545764F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCA0AF9-D42C-4A21-9A47-31F3805D6751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCA0AF9-D42C-4A21-9A47-31F3805D6751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCA0AF9-D42C-4A21-9A47-31F3805D6751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCA0AF9-D42C-4A21-9A47-31F3805D6751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
